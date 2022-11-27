@@ -1,0 +1,6 @@
+export const CABINET_ROUTE = '/cabinet'
+export const SHOP_ROUTE = '/'
+export const ROOM_ROUTE = '/room'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const TICKET_ROUTE = '/ticket'
